@@ -1,0 +1,259 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "Mname": "Batman",
+      "Rname": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "Mname": "Superman",
+      "Rname": "Clerk kent"
+    },
+    {
+      "id": 3,
+      "Mname": "Wonderwoman",
+      "Rname": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "Mname": "Hulk2",
+      "Rname": "Thomas cruks"
+    },
+    {
+      "id": 5,
+      "Mname": "Antman",
+      "Rname": "rnto ranto"
+    },
+    {
+      "id": 6,
+      "Mname": "Dragos",
+      "Rname": "fnto fanto"
+    },
+    {
+      "id": 7,
+      "Mname": "the dancer",
+      "Rname": "cnto canto"
+    },
+    {
+      "id": 8,
+      "Mname": "Hundred",
+      "Rname": "wnto wanto"
+    }
+  ],
+  "fruit": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "pawpaw"
+    },
+    {
+      "id": 3,
+      "name": "cherry"
+    },
+    {
+      "id": 4,
+      "name": "banana"
+    },
+    {
+      "id": 5,
+      "name": "leech"
+    },
+    {
+      "id": 6,
+      "name": "orange"
+    },
+    {
+      "id": 7,
+      "name": "pear"
+    },
+    {
+      "id": 8,
+      "name": "sugarCane"
+    },
+    {
+      "id": 9,
+      "name": "pineapple"
+    },
+    {
+      "id": 10,
+      "name": "grape"
+    }
+  ],
+  "animals": [
+    {
+      "1d": 1,
+      "name": "tiger"
+    },
+    {
+      "1d": 2,
+      "name": "bull"
+    },
+    {
+      "1d": 3,
+      "name": "monkey"
+    },
+    {
+      "1d": 4,
+      "name": "elephant"
+    },
+    {
+      "1d": 5,
+      "name": "leopard"
+    },
+    {
+      "1d": 6,
+      "name": "ram"
+    },
+    {
+      "1d": 7,
+      "name": "hen"
+    },
+    {
+      "1d": 8,
+      "name": "pig"
+    },
+    {
+      "1d": 9,
+      "name": "cat"
+    },
+    {
+      "1d": 10,
+      "name": "Lion"
+    },
+    {
+      "1d": 11,
+      "name": "Elede"
+    },
+    {
+      "1d": 12,
+      "name": "Chimp"
+    },
+    {
+      "1d": 13,
+      "name": "rat"
+    },
+    {
+      "1d": 14,
+      "name": "mouse"
+    },
+    {
+      "1d": 15,
+      "name": "snake"
+    },
+    {
+      "1d": 16,
+      "name": "Big ram"
+    },
+    {
+      "1d": 17,
+      "name": "horse"
+    },
+    {
+      "1d": 18,
+      "name": "Orangutan"
+    },
+    {
+      "1d": 19,
+      "name": "OX"
+    },
+    {
+      "1d": 20,
+      "name": "donkey"
+    },
+    {
+      "1d": 11,
+      "name": "Elede"
+    },
+    {
+      "1d": 12,
+      "name": "Chimp"
+    },
+    {
+      "1d": 13,
+      "name": "rat"
+    },
+    {
+      "1d": 14,
+      "name": "mouse"
+    },
+    {
+      "1d": 15,
+      "name": "snake"
+    },
+    {
+      "1d": 16,
+      "name": "Big ram"
+    },
+    {
+      "1d": 17,
+      "name": "horse"
+    },
+    {
+      "1d": 18,
+      "name": "Orangutan"
+    },
+    {
+      "1d": 19,
+      "name": "OX"
+    },
+    {
+      "1d": 20,
+      "name": "donkey"
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "title": "The boy is dancing",
+      "body": "Dicussing the future of tech"
+    },
+    {
+      "id": 2,
+      "title": "My Goal is to thrive in tech",
+      "body": "Whatr you believe you can acieve"
+    },
+    {
+      "id": 3,
+      "title": "The grass is greener on the other side",
+      "body": "Dicussing the futuure of grass"
+    },
+    {
+      "title": "the girl is dancing",
+      "body": "i Pray thsi works",
+      "id": 4
+    },
+    {
+      "title": "creative post",
+      "body": "creative body",
+      "id": 5
+    },
+    {
+      "title": "doe ",
+      "body": "hhhh",
+      "id": 6
+    },
+    {
+      "title": "john",
+      "body": "doe",
+      "id": 7
+    },
+    {
+      "title": "hh",
+      "body": "vv",
+      "id": 8
+    },
+    {
+      "title": "bf",
+      "body": "gf",
+      "id": 9
+    }
+  ]
+}
