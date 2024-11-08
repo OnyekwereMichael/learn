@@ -14,6 +14,7 @@ const Test = () => {
     id: number,
     Rname: string,
     name: string,
+    
     Mname: string
   }
 
